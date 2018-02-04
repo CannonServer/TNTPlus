@@ -1,0 +1,11 @@
+name: TNTplus
+main: main.java.com.oneshotmc.tntplus.TNTplus
+version: 0.0.1-SNAPSHOT
+author: Autst
+commands:
+  tntfill:
+    aliases: [tntfill,filltnt,fill]
+    description: Fill all of the dispensers close to you with tnt.
+  tntclear:
+    aliases: [cleartnt]
+    description: Clear all dispensers.
